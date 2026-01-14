@@ -1,5 +1,4 @@
 # EscapeFromLake
-![image](https://github.com/user-attachments/assets/4d8c1892-f2d8-4b5b-b45b-f12d9c0fe515)
 ![image](https://github.com/user-attachments/assets/b1850ec6-2534-45ee-8780-3d0acdfeb52c)
 ![image](https://github.com/user-attachments/assets/dfc2187b-dc64-4393-bbf8-3c8b35874035)
 ![image](https://github.com/user-attachments/assets/7f37dc0b-9f54-45ca-80f4-1e20c0c08f0e)
